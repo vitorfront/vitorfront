@@ -16,7 +16,7 @@
 <details>
   <summary>👨‍💻 Sobre mim</summary>
 
-  - 💬 Olá, meu nome é Vitor venturini, tenho 19 anos. Sou um entusiasta da programação que iniciou sua jornada no mundo do desenvolvimento em 2022, explorando inicialmente o back-end antes de descobrir minha afinidade e conforto no front-end. Com a decisão de iniciar meu curso de Ciência da Computação em 2023, escolhi focar meus esforços no desenvolvimento front-end.
+  - 💬 Olá, meu nome é Vitor Venturini, tenho 19 anos. Sou um entusiasta da programação que iniciou sua jornada no mundo do desenvolvimento em 2022, explorando inicialmente o back-end antes de descobrir minha afinidade e conforto no front-end. Com a decisão de iniciar meu curso de Ciência da Computação em 2023, escolhi focar meus esforços no desenvolvimento front-end.
 
   - ⚡ Apaixonado por desafios intelectuais, encontro equilíbrio entre minha paixão pelos estudos, onde busco constantemente conhecimento, e meu entusiasmo por jogos.
 </details>
