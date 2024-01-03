@@ -8,7 +8,7 @@
 <p>
  Olá 👋, sou o Vitor! Um apaixonado em de Front-End.
 
-  - 🌱 Atualmente estou Cursando ciencia da computação.
+  - 🌱 Atualmente estou cursando ciencia da computação.
 
 </p>
 
