@@ -6,7 +6,7 @@
 
 
 <p>
- Olá 👋, sou o Vitor! Um apaixonado em de Front-End.
+ Olá 👋, sou o Vitor! Um apaixonado em Front-End.
 
   - 🌱 Atualmente estou cursando ciencia da computação.
 
