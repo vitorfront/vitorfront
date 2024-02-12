@@ -30,7 +30,7 @@
 ## Portfolio:
 - [Portfólio](https://vitorfront.github.io/site-portfolio/)
 - [Wallet-App](https://github.com/vitorfront/wallet-app-frontend)
-- [Estoque-Rapido](https://github.com/vitorfront/supermarket-list-frontend)
+- [Estoque-Rapido](https://github.com/vitorfront/estoque-rapido-frontend)
 
 
 
